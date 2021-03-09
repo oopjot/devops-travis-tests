@@ -5,6 +5,9 @@
   "repository": "git@github.com:oopjot/devops-travis-tests.git",
   "author": "Piotr Ostrowski <postrowski.00@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "echo 'haha'"
+  },
   "dependencies": {
     "chai": "^4.3.3",
     "chai-http": "^4.3.0",
